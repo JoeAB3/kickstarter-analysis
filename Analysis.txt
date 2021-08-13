@@ -1,0 +1,42 @@
+# Kicker Campaign analysis prepared for Louise
+
+## Overview of Project
+Using historic Kickerstarer campaigns across several years and mediums to understand 
+success vs failure
+
+### General Purpose
+To understand how different campaigns fared in relation to their launch date and heir funding goals
+
+## Analysis and Challenges
+I did an alanlysis of historic THEATER kickstar campaigns going back to 2009.
+
+### Analysis of Outcomes Based on Launch Date
+There truly appears to be a proper season for a successful theater Kickstar campaigns.  
+About 32% of all campaigns are launched during the second quarter of the year.
+Nearly 34% of successful campaigns are launched during the second quater.  
+It's interesting to note that 65% of all the campaigns launched during the second quarter are successsful.
+Please see the chart "Outcomes-vs_Goals" in the resources file.
+
+
+### Analysis of Outcomes Based on Goals
+It does appear that there is a sweetspot in regards to the goals.
+Campaigns seeking smaller donations appeared to be much more successful.  
+The more money requested, the greater the chance that the campaign fails.
+The chart is a little misleading due to that that it represents percentages.  
+But, 76% of sucessful campaings were goals less than $5000, while only 55% failed (139 Index).
+Please see the chart "Theater_Outcomes_vs_Launch" in the resources file.
+
+
+### Challenges and Difficulties Encountered
+This was a fairly satraightforward analysis, whitout many challenges.
+
+## Results
+The most important thing to takeaway from this anlaysis.  Those are the caimpaign timing and goal requested.
+It appears the most successful campaign would be less than $%000, and launched in the Second Quarter.
+The simplest answer is that the campaign sould be launched in May and be between $1000 and $4999.
+There are some limitations based on this analysis.  We don't know they type of campaign launched.  
+Or, the vaiiations within the goal buckets.
+There are some other analyses that can be run.  Most importantly, instead of looking at percentages, the actual counts in the successful charts 
+could/should be run.  Also, consider looking at comparing by year
+
+-
